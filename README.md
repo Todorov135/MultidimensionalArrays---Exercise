@@ -1,1 +1,1 @@
-# MultidimensionalArrays - Ex
+# Multidimensional and jagged arrays. Exercise from SoftUni.
